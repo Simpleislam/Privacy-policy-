@@ -29,4 +29,4 @@ If this policy ever changes, the updated version will be posted on this page wit
 
 ## Contact
 
-If you have any questions about this privacy policy, please open an issue at https://github.com/Simpleislam/Privacy-policy-/issues
+If you have any questions about this privacy policy, please email **simpleislamapps@gmail.com** or open an issue at https://github.com/Simpleislam/Privacy-policy-/issues
