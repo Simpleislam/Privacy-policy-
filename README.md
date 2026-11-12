@@ -12,7 +12,7 @@ This privacy policy applies to the Android app **13 Line Quran** (package `com.s
 
 - **No accounts, no sign-in, no ads, no analytics and no tracking.** The app contains no third-party advertising or analytics code.
 - **Data that stays on your device:** your bookmarks, hifdh mistakes, last-read page, chosen reciter, display settings and any recitation audio you download are saved only on your own phone. They are never sent to us or to anyone else. Uninstalling the app or clearing its data deletes them permanently.
-- **Recitation audio:** when you choose to play or download a recitation, the app fetches the audio directly from [everyayah.com](https://everyayah.com), or from the full recordings of Qari Ayoob Essack on [archive.org](https://archive.org) and of Sheikh Badr al-Turki on [mp3quran.net](https://mp3quran.net), over a secure (HTTPS) connection. As with any internet request, those servers can see your device's IP address. No other information about you is sent. Everything else in the app works without internet.
+- **Recitation audio:** when you choose to play or download a recitation, the app fetches the audio directly from [everyayah.com](https://everyayah.com), or from full-length recordings on [archive.org](https://archive.org) (Qari Ayoob Essack) and [mp3quran.net](https://mp3quran.net) (Sheikh Badr al-Turki and several other reciters), over a secure (HTTPS) connection. As with any internet request, those servers can see your device's IP address. No other information about you is sent. Everything else in the app works without internet.
 - **Permissions:** the app only uses the Internet permission, and only to fetch recitation audio.
 
 ## Sharing with third parties
